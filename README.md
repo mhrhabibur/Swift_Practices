@@ -1,1 +1,6 @@
-README file is added.
+# Swift Practices
+
+## Habibur Rahman (iOS Developer)
+
+- Array
+

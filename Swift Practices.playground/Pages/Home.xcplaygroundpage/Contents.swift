@@ -1,8 +1,7 @@
 /*:
- 
  # Swift Practices
- 
- ### Habibur Rahman (iOS Developer)
+ ### Habibur Rahman
+ ---
  
  ## Table of contents
  

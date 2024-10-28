@@ -1,11 +1,21 @@
 /*:
- # Array
- [Home](Home)
-
+ # Swift Practices
+ ### Habibur Rahman
+ ---
+ [🏠](Home)
+ 
+ ---
+ ### Array
  */
+var numbers: [Int] = [1, 2, 3, 4, 5]
 
-import Foundation
+for number in numbers {
+    print(number)
+}
 
-print("Hello, World!")
-print("Hello, World!")
+
+
+
+
+
 

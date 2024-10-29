@@ -25,3 +25,20 @@ func areLettersUnique(_ input: String) -> Bool {
  */
 
 // MARK: Challenge 3: Do two strings contain the same characters?
+
+/*
+ func containsSameCharacters(_ input1: String, _ input2: String) -> Bool {
+     return Set(input1).isSubset(of: Set(input2))
+ }
+
+ containsSameCharacters("hello", "hello") ? "same" : "not same"
+ 
+ */
+
+/*
+ func containsSameCharacters(_ input1: String, _ input2: String) -> Bool {
+ let array1 = Array(input1)
+ let array2 = Array(input2)
+ return array1.sorted() == array2.sorted()
+ }
+ */
